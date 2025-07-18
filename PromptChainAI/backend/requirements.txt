@@ -1,0 +1,16 @@
+docx2txt
+faster-whisper
+fastapi
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+ollama
+pandas
+pdfplumber
+Pillow
+pytesseract
+python-multipart
+scikit-learn
+sentence-transformers
+uvicorn
